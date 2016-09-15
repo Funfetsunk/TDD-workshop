@@ -1,11 +1,11 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using NUnit.Framework;
 
 namespace Tests
 {
-    [TestClass]
+    [TestFixture]
     public class ExampleTests
     {
-        [TestMethod]
+        [Test]
         public void Should_Pass()
         {
             Assert.IsTrue(true);

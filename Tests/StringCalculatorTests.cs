@@ -1,12 +1,11 @@
 ﻿using Code;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace Tests
 {
-    [TestClass]
+    [TestFixture]
     public class StringCalculatorTests
     {
-    }
-
-    // write tests here for the StringCalculator
+        // write tests here for the StringCalculator
+    } 
 }

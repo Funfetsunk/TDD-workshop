@@ -1,13 +1,13 @@
 ﻿using Code;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace Tests
 {
-    [TestClass]
+    [TestFixture]
     public class TennisGameTests
     {
-        
+        // add the tests here to test that our TennisGame is working
     }
 
-    // add the tests here to test that our TennisGame is working
+    
 }
