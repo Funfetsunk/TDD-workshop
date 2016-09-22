@@ -41,8 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutomaticUmbrella.cs" />
-    <Compile Include="IWetWeather.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RomanNumeralsCalculator.cs" />
     <Compile Include="StringCalculator.cs" />
     <Compile Include="TennisGame.cs" />
   </ItemGroup>
